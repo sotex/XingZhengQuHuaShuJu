@@ -1,0 +1,2730 @@
+[
+    {
+      "children": [],
+      "diji": "北京市",
+      "quHuaDaiMa": "110000",
+      "quhao": "",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "天津市",
+      "quHuaDaiMa": "120000",
+      "quhao": "",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "石家庄市",
+      "quHuaDaiMa": "130100",
+      "quhao": "0311",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "唐山市",
+      "quHuaDaiMa": "130200",
+      "quhao": "0315",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "秦皇岛市",
+      "quHuaDaiMa": "130300",
+      "quhao": "0335",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "邯郸市",
+      "quHuaDaiMa": "130400",
+      "quhao": "0310",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "邢台市",
+      "quHuaDaiMa": "130500",
+      "quhao": "0319",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "保定市",
+      "quHuaDaiMa": "130600",
+      "quhao": "0312",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "张家口市",
+      "quHuaDaiMa": "130700",
+      "quhao": "0313",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "承德市",
+      "quHuaDaiMa": "130800",
+      "quhao": "0314",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "沧州市",
+      "quHuaDaiMa": "130900",
+      "quhao": "0317",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "廊坊市",
+      "quHuaDaiMa": "131000",
+      "quhao": "0316",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "衡水市",
+      "quHuaDaiMa": "131100",
+      "quhao": "0318",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "太原市",
+      "quHuaDaiMa": "140100",
+      "quhao": "0351",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "大同市",
+      "quHuaDaiMa": "140200",
+      "quhao": "0352",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "阳泉市",
+      "quHuaDaiMa": "140300",
+      "quhao": "0353",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "长治市",
+      "quHuaDaiMa": "140400",
+      "quhao": "0355",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "晋城市",
+      "quHuaDaiMa": "140500",
+      "quhao": "0356",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "朔州市",
+      "quHuaDaiMa": "140600",
+      "quhao": "0349",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "晋中市",
+      "quHuaDaiMa": "140700",
+      "quhao": "0354",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "运城市",
+      "quHuaDaiMa": "140800",
+      "quhao": "0359",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "忻州市",
+      "quHuaDaiMa": "140900",
+      "quhao": "0350",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "临汾市",
+      "quHuaDaiMa": "141000",
+      "quhao": "0357",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "吕梁市",
+      "quHuaDaiMa": "141100",
+      "quhao": "0358",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "呼和浩特市",
+      "quHuaDaiMa": "150100",
+      "quhao": "0471",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "包头市",
+      "quHuaDaiMa": "150200",
+      "quhao": "0472",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "乌海市",
+      "quHuaDaiMa": "150300",
+      "quhao": "0473",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "赤峰市",
+      "quHuaDaiMa": "150400",
+      "quhao": "0476",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "通辽市",
+      "quHuaDaiMa": "150500",
+      "quhao": "0475",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "鄂尔多斯市",
+      "quHuaDaiMa": "150600",
+      "quhao": "0477",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "呼伦贝尔市",
+      "quHuaDaiMa": "150700",
+      "quhao": "0470",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "巴彦淖尔市",
+      "quHuaDaiMa": "150800",
+      "quhao": "0478",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "乌兰察布市",
+      "quHuaDaiMa": "150900",
+      "quhao": "0474",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "兴安盟",
+      "quHuaDaiMa": "152200",
+      "quhao": "0482",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "锡林郭勒盟",
+      "quHuaDaiMa": "152500",
+      "quhao": "0479",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "阿拉善盟",
+      "quHuaDaiMa": "152900",
+      "quhao": "0483",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "沈阳市",
+      "quHuaDaiMa": "210100",
+      "quhao": "024",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "大连市",
+      "quHuaDaiMa": "210200",
+      "quhao": "0411",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "鞍山市",
+      "quHuaDaiMa": "210300",
+      "quhao": "0412",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "抚顺市",
+      "quHuaDaiMa": "210400",
+      "quhao": "024",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "本溪市",
+      "quHuaDaiMa": "210500",
+      "quhao": "024",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "丹东市",
+      "quHuaDaiMa": "210600",
+      "quhao": "0415",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "锦州市",
+      "quHuaDaiMa": "210700",
+      "quhao": "0416",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "营口市",
+      "quHuaDaiMa": "210800",
+      "quhao": "0417",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "阜新市",
+      "quHuaDaiMa": "210900",
+      "quhao": "0418",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "辽阳市",
+      "quHuaDaiMa": "211000",
+      "quhao": "0419",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "盘锦市",
+      "quHuaDaiMa": "211100",
+      "quhao": "0427",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "铁岭市",
+      "quHuaDaiMa": "211200",
+      "quhao": "024",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "朝阳市",
+      "quHuaDaiMa": "211300",
+      "quhao": "0421",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "葫芦岛市",
+      "quHuaDaiMa": "211400",
+      "quhao": "0429",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "长春市",
+      "quHuaDaiMa": "220100",
+      "quhao": "0431",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "吉林市",
+      "quHuaDaiMa": "220200",
+      "quhao": "0432",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "四平市",
+      "quHuaDaiMa": "220300",
+      "quhao": "0434",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "辽源市",
+      "quHuaDaiMa": "220400",
+      "quhao": "0437",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "通化市",
+      "quHuaDaiMa": "220500",
+      "quhao": "0435",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "白山市",
+      "quHuaDaiMa": "220600",
+      "quhao": "0439",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "松原市",
+      "quHuaDaiMa": "220700",
+      "quhao": "0438",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "白城市",
+      "quHuaDaiMa": "220800",
+      "quhao": "0436",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "延边朝鲜族自治州",
+      "quHuaDaiMa": "222400",
+      "quhao": "0433",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "哈尔滨市",
+      "quHuaDaiMa": "230100",
+      "quhao": "0451",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "齐齐哈尔市",
+      "quHuaDaiMa": "230200",
+      "quhao": "0452",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "鸡西市",
+      "quHuaDaiMa": "230300",
+      "quhao": "0467",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "鹤岗市",
+      "quHuaDaiMa": "230400",
+      "quhao": "0468",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "双鸭山市",
+      "quHuaDaiMa": "230500",
+      "quhao": "0469",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "大庆市",
+      "quHuaDaiMa": "230600",
+      "quhao": "0459",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "伊春市",
+      "quHuaDaiMa": "230700",
+      "quhao": "0458",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "佳木斯市",
+      "quHuaDaiMa": "230800",
+      "quhao": "0454",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "七台河市",
+      "quHuaDaiMa": "230900",
+      "quhao": "0464",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "牡丹江市",
+      "quHuaDaiMa": "231000",
+      "quhao": "0453",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "黑河市",
+      "quHuaDaiMa": "231100",
+      "quhao": "0456",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "绥化市",
+      "quHuaDaiMa": "231200",
+      "quhao": "0455",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "大兴安岭地区",
+      "quHuaDaiMa": "232700",
+      "quhao": "0457",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "上海市",
+      "quHuaDaiMa": "310000",
+      "quhao": "",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "南京市",
+      "quHuaDaiMa": "320100",
+      "quhao": "025",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "无锡市",
+      "quHuaDaiMa": "320200",
+      "quhao": "0510",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "徐州市",
+      "quHuaDaiMa": "320300",
+      "quhao": "0516",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "常州市",
+      "quHuaDaiMa": "320400",
+      "quhao": "0519",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "苏州市",
+      "quHuaDaiMa": "320500",
+      "quhao": "0512",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "南通市",
+      "quHuaDaiMa": "320600",
+      "quhao": "0513",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "连云港市",
+      "quHuaDaiMa": "320700",
+      "quhao": "0518",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "淮安市",
+      "quHuaDaiMa": "320800",
+      "quhao": "0517",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "盐城市",
+      "quHuaDaiMa": "320900",
+      "quhao": "0515",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "扬州市",
+      "quHuaDaiMa": "321000",
+      "quhao": "0514",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "镇江市",
+      "quHuaDaiMa": "321100",
+      "quhao": "0511",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "泰州市",
+      "quHuaDaiMa": "321200",
+      "quhao": "0523",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "宿迁市",
+      "quHuaDaiMa": "321300",
+      "quhao": "0527",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "杭州市",
+      "quHuaDaiMa": "330100",
+      "quhao": "0571",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "宁波市",
+      "quHuaDaiMa": "330200",
+      "quhao": "0574",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "温州市",
+      "quHuaDaiMa": "330300",
+      "quhao": "0577",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "嘉兴市",
+      "quHuaDaiMa": "330400",
+      "quhao": "0573",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "湖州市",
+      "quHuaDaiMa": "330500",
+      "quhao": "0572",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "绍兴市",
+      "quHuaDaiMa": "330600",
+      "quhao": "0575",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "金华市",
+      "quHuaDaiMa": "330700",
+      "quhao": "0579",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "衢州市",
+      "quHuaDaiMa": "330800",
+      "quhao": "0570",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "舟山市",
+      "quHuaDaiMa": "330900",
+      "quhao": "0580",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "台州市",
+      "quHuaDaiMa": "331000",
+      "quhao": "0576",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "丽水市",
+      "quHuaDaiMa": "331100",
+      "quhao": "0578",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "合肥市",
+      "quHuaDaiMa": "340100",
+      "quhao": "0551",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "芜湖市",
+      "quHuaDaiMa": "340200",
+      "quhao": "0553",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "蚌埠市",
+      "quHuaDaiMa": "340300",
+      "quhao": "0552",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "淮南市",
+      "quHuaDaiMa": "340400",
+      "quhao": "0554",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "马鞍山市",
+      "quHuaDaiMa": "340500",
+      "quhao": "0555",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "淮北市",
+      "quHuaDaiMa": "340600",
+      "quhao": "0561",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "铜陵市",
+      "quHuaDaiMa": "340700",
+      "quhao": "0562",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "安庆市",
+      "quHuaDaiMa": "340800",
+      "quhao": "0556",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "黄山市",
+      "quHuaDaiMa": "341000",
+      "quhao": "0559",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "滁州市",
+      "quHuaDaiMa": "341100",
+      "quhao": "0550",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "阜阳市",
+      "quHuaDaiMa": "341200",
+      "quhao": "0558",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "宿州市",
+      "quHuaDaiMa": "341300",
+      "quhao": "0557",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "六安市",
+      "quHuaDaiMa": "341500",
+      "quhao": "0564",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "亳州市",
+      "quHuaDaiMa": "341600",
+      "quhao": "0558",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "池州市",
+      "quHuaDaiMa": "341700",
+      "quhao": "0566",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "宣城市",
+      "quHuaDaiMa": "341800",
+      "quhao": "0563",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "福州市",
+      "quHuaDaiMa": "350100",
+      "quhao": "0591",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "厦门市",
+      "quHuaDaiMa": "350200",
+      "quhao": "0592",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "莆田市",
+      "quHuaDaiMa": "350300",
+      "quhao": "0594",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "三明市",
+      "quHuaDaiMa": "350400",
+      "quhao": "0598",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "泉州市",
+      "quHuaDaiMa": "350500",
+      "quhao": "0595",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "漳州市",
+      "quHuaDaiMa": "350600",
+      "quhao": "0596",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "南平市",
+      "quHuaDaiMa": "350700",
+      "quhao": "0599",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "龙岩市",
+      "quHuaDaiMa": "350800",
+      "quhao": "0597",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "宁德市",
+      "quHuaDaiMa": "350900",
+      "quhao": "0593",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "南昌市",
+      "quHuaDaiMa": "360100",
+      "quhao": "0791",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "景德镇市",
+      "quHuaDaiMa": "360200",
+      "quhao": "0798",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "萍乡市",
+      "quHuaDaiMa": "360300",
+      "quhao": "0799",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "九江市",
+      "quHuaDaiMa": "360400",
+      "quhao": "0792",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "新余市",
+      "quHuaDaiMa": "360500",
+      "quhao": "0790",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "鹰潭市",
+      "quHuaDaiMa": "360600",
+      "quhao": "0701",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "赣州市",
+      "quHuaDaiMa": "360700",
+      "quhao": "0797",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "吉安市",
+      "quHuaDaiMa": "360800",
+      "quhao": "0796",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "宜春市",
+      "quHuaDaiMa": "360900",
+      "quhao": "0795",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "抚州市",
+      "quHuaDaiMa": "361000",
+      "quhao": "0794",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "上饶市",
+      "quHuaDaiMa": "361100",
+      "quhao": "0793",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "济南市",
+      "quHuaDaiMa": "370100",
+      "quhao": "0531",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "青岛市",
+      "quHuaDaiMa": "370200",
+      "quhao": "0532",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "淄博市",
+      "quHuaDaiMa": "370300",
+      "quhao": "0533",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "枣庄市",
+      "quHuaDaiMa": "370400",
+      "quhao": "0632",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "东营市",
+      "quHuaDaiMa": "370500",
+      "quhao": "0546",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "烟台市",
+      "quHuaDaiMa": "370600",
+      "quhao": "0535",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "潍坊市",
+      "quHuaDaiMa": "370700",
+      "quhao": "0536",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "济宁市",
+      "quHuaDaiMa": "370800",
+      "quhao": "0537",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "泰安市",
+      "quHuaDaiMa": "370900",
+      "quhao": "0538",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "威海市",
+      "quHuaDaiMa": "371000",
+      "quhao": "0631",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "日照市",
+      "quHuaDaiMa": "371100",
+      "quhao": "0633",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "临沂市",
+      "quHuaDaiMa": "371300",
+      "quhao": "0539",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "德州市",
+      "quHuaDaiMa": "371400",
+      "quhao": "0534",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "聊城市",
+      "quHuaDaiMa": "371500",
+      "quhao": "0635",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "滨州市",
+      "quHuaDaiMa": "371600",
+      "quhao": "0543",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "菏泽市",
+      "quHuaDaiMa": "371700",
+      "quhao": "0530",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "郑州市",
+      "quHuaDaiMa": "410100",
+      "quhao": "0371",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "开封市",
+      "quHuaDaiMa": "410200",
+      "quhao": "0371",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "洛阳市",
+      "quHuaDaiMa": "410300",
+      "quhao": "0379",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "平顶山市",
+      "quHuaDaiMa": "410400",
+      "quhao": "0375",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "安阳市",
+      "quHuaDaiMa": "410500",
+      "quhao": "0372",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "鹤壁市",
+      "quHuaDaiMa": "410600",
+      "quhao": "0392",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "新乡市",
+      "quHuaDaiMa": "410700",
+      "quhao": "0373",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "焦作市",
+      "quHuaDaiMa": "410800",
+      "quhao": "0391",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "濮阳市",
+      "quHuaDaiMa": "410900",
+      "quhao": "0393",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "许昌市",
+      "quHuaDaiMa": "411000",
+      "quhao": "0374",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "漯河市",
+      "quHuaDaiMa": "411100",
+      "quhao": "0395",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "三门峡市",
+      "quHuaDaiMa": "411200",
+      "quhao": "0398",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "南阳市",
+      "quHuaDaiMa": "411300",
+      "quhao": "0377",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "商丘市",
+      "quHuaDaiMa": "411400",
+      "quhao": "0370",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "信阳市",
+      "quHuaDaiMa": "411500",
+      "quhao": "0376",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "周口市",
+      "quHuaDaiMa": "411600",
+      "quhao": "0394",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "驻马店市",
+      "quHuaDaiMa": "411700",
+      "quhao": "0396",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "省直辖县级行政单位",
+      "quHuaDaiMa": "",
+      "quhao": "",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "武汉市",
+      "quHuaDaiMa": "420100",
+      "quhao": "027",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "黄石市",
+      "quHuaDaiMa": "420200",
+      "quhao": "0714",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "十堰市",
+      "quHuaDaiMa": "420300",
+      "quhao": "0719",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "宜昌市",
+      "quHuaDaiMa": "420500",
+      "quhao": "0717",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "襄阳市",
+      "quHuaDaiMa": "420600",
+      "quhao": "0710",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "鄂州市",
+      "quHuaDaiMa": "420700",
+      "quhao": "0711",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "荆门市",
+      "quHuaDaiMa": "420800",
+      "quhao": "0724",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "孝感市",
+      "quHuaDaiMa": "420900",
+      "quhao": "0712",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "荆州市",
+      "quHuaDaiMa": "421000",
+      "quhao": "0716",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "黄冈市",
+      "quHuaDaiMa": "421100",
+      "quhao": "0713",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "咸宁市",
+      "quHuaDaiMa": "421200",
+      "quhao": "0715",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "随州市",
+      "quHuaDaiMa": "421300",
+      "quhao": "0722",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "恩施土家族苗族自治州",
+      "quHuaDaiMa": "422800",
+      "quhao": "0718",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "省直辖县级行政单位",
+      "quHuaDaiMa": "",
+      "quhao": "",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "长沙市",
+      "quHuaDaiMa": "430100",
+      "quhao": "0731",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "株洲市",
+      "quHuaDaiMa": "430200",
+      "quhao": "0731",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "湘潭市",
+      "quHuaDaiMa": "430300",
+      "quhao": "0731",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "衡阳市",
+      "quHuaDaiMa": "430400",
+      "quhao": "0734",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "邵阳市",
+      "quHuaDaiMa": "430500",
+      "quhao": "0739",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "岳阳市",
+      "quHuaDaiMa": "430600",
+      "quhao": "0730",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "常德市",
+      "quHuaDaiMa": "430700",
+      "quhao": "0736",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "张家界市",
+      "quHuaDaiMa": "430800",
+      "quhao": "0744",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "益阳市",
+      "quHuaDaiMa": "430900",
+      "quhao": "0737",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "郴州市",
+      "quHuaDaiMa": "431000",
+      "quhao": "0735",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "永州市",
+      "quHuaDaiMa": "431100",
+      "quhao": "0746",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "怀化市",
+      "quHuaDaiMa": "431200",
+      "quhao": "0745",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "娄底市",
+      "quHuaDaiMa": "431300",
+      "quhao": "0738",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "湘西土家族苗族自治州",
+      "quHuaDaiMa": "433100",
+      "quhao": "0743",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "广州市",
+      "quHuaDaiMa": "440100",
+      "quhao": "020",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "韶关市",
+      "quHuaDaiMa": "440200",
+      "quhao": "0751",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "深圳市",
+      "quHuaDaiMa": "440300",
+      "quhao": "0755",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "珠海市",
+      "quHuaDaiMa": "440400",
+      "quhao": "0756",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "汕头市",
+      "quHuaDaiMa": "440500",
+      "quhao": "0754",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "佛山市",
+      "quHuaDaiMa": "440600",
+      "quhao": "0757",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "江门市",
+      "quHuaDaiMa": "440700",
+      "quhao": "0750",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "湛江市",
+      "quHuaDaiMa": "440800",
+      "quhao": "0759",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "茂名市",
+      "quHuaDaiMa": "440900",
+      "quhao": "0668",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "肇庆市",
+      "quHuaDaiMa": "441200",
+      "quhao": "0758",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "惠州市",
+      "quHuaDaiMa": "441300",
+      "quhao": "0752",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "梅州市",
+      "quHuaDaiMa": "441400",
+      "quhao": "0753",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "汕尾市",
+      "quHuaDaiMa": "441500",
+      "quhao": "0660",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "河源市",
+      "quHuaDaiMa": "441600",
+      "quhao": "0762",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "阳江市",
+      "quHuaDaiMa": "441700",
+      "quhao": "0662",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "清远市",
+      "quHuaDaiMa": "441800",
+      "quhao": "0763",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "东莞市",
+      "quHuaDaiMa": "441900",
+      "quhao": "0769",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "中山市",
+      "quHuaDaiMa": "442000",
+      "quhao": "0760",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "潮州市",
+      "quHuaDaiMa": "445100",
+      "quhao": "0768",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "揭阳市",
+      "quHuaDaiMa": "445200",
+      "quhao": "0663",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "云浮市",
+      "quHuaDaiMa": "445300",
+      "quhao": "0766",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "南宁市",
+      "quHuaDaiMa": "450100",
+      "quhao": "0771",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "柳州市",
+      "quHuaDaiMa": "450200",
+      "quhao": "0772",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "桂林市",
+      "quHuaDaiMa": "450300",
+      "quhao": "0773",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "梧州市",
+      "quHuaDaiMa": "450400",
+      "quhao": "0774",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "北海市",
+      "quHuaDaiMa": "450500",
+      "quhao": "0779",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "防城港市",
+      "quHuaDaiMa": "450600",
+      "quhao": "0770",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "钦州市",
+      "quHuaDaiMa": "450700",
+      "quhao": "0777",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "贵港市",
+      "quHuaDaiMa": "450800",
+      "quhao": "0775",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "玉林市",
+      "quHuaDaiMa": "450900",
+      "quhao": "0775",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "百色市",
+      "quHuaDaiMa": "451000",
+      "quhao": "0776",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "贺州市",
+      "quHuaDaiMa": "451100",
+      "quhao": "0774",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "河池市",
+      "quHuaDaiMa": "451200",
+      "quhao": "0778",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "来宾市",
+      "quHuaDaiMa": "451300",
+      "quhao": "0772",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "崇左市",
+      "quHuaDaiMa": "451400",
+      "quhao": "0771",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "海口市",
+      "quHuaDaiMa": "460100",
+      "quhao": "0898",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "三亚市",
+      "quHuaDaiMa": "460200",
+      "quhao": "0898",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "三沙市☆",
+      "quHuaDaiMa": "460300",
+      "quhao": "0898",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "儋州市",
+      "quHuaDaiMa": "460400",
+      "quhao": "0898",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "省直辖县级行政单位",
+      "quHuaDaiMa": "",
+      "quhao": "",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "重庆市",
+      "quHuaDaiMa": "500000",
+      "quhao": "",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "成都市",
+      "quHuaDaiMa": "510100",
+      "quhao": "028",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "自贡市",
+      "quHuaDaiMa": "510300",
+      "quhao": "0813",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "攀枝花市",
+      "quHuaDaiMa": "510400",
+      "quhao": "0812",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "泸州市",
+      "quHuaDaiMa": "510500",
+      "quhao": "0830",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "德阳市",
+      "quHuaDaiMa": "510600",
+      "quhao": "0838",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "绵阳市",
+      "quHuaDaiMa": "510700",
+      "quhao": "0816",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "广元市",
+      "quHuaDaiMa": "510800",
+      "quhao": "0839",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "遂宁市",
+      "quHuaDaiMa": "510900",
+      "quhao": "0825",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "内江市",
+      "quHuaDaiMa": "511000",
+      "quhao": "0832",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "乐山市",
+      "quHuaDaiMa": "511100",
+      "quhao": "0833",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "南充市",
+      "quHuaDaiMa": "511300",
+      "quhao": "0817",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "眉山市",
+      "quHuaDaiMa": "511400",
+      "quhao": "028",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "宜宾市",
+      "quHuaDaiMa": "511500",
+      "quhao": "0831",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "广安市",
+      "quHuaDaiMa": "511600",
+      "quhao": "0826",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "达州市",
+      "quHuaDaiMa": "511700",
+      "quhao": "0818",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "雅安市",
+      "quHuaDaiMa": "511800",
+      "quhao": "0835",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "巴中市",
+      "quHuaDaiMa": "511900",
+      "quhao": "0827",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "资阳市",
+      "quHuaDaiMa": "512000",
+      "quhao": "028",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "阿坝藏族羌族自治州",
+      "quHuaDaiMa": "513200",
+      "quhao": "0837",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "甘孜藏族自治州",
+      "quHuaDaiMa": "513300",
+      "quhao": "0836",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "凉山彝族自治州",
+      "quHuaDaiMa": "513400",
+      "quhao": "0834",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "贵阳市",
+      "quHuaDaiMa": "520100",
+      "quhao": "0851",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "六盘水市",
+      "quHuaDaiMa": "520200",
+      "quhao": "0858",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "遵义市",
+      "quHuaDaiMa": "520300",
+      "quhao": "0852",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "安顺市",
+      "quHuaDaiMa": "520400",
+      "quhao": "0853",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "毕节市",
+      "quHuaDaiMa": "520500",
+      "quhao": "0857",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "铜仁市",
+      "quHuaDaiMa": "520600",
+      "quhao": "0856",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "黔西南布依族苗族自治州",
+      "quHuaDaiMa": "522300",
+      "quhao": "0859",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "黔东南苗族侗族自治州",
+      "quHuaDaiMa": "522600",
+      "quhao": "0855",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "黔南布依族苗族自治州",
+      "quHuaDaiMa": "522700",
+      "quhao": "0854",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "昆明市",
+      "quHuaDaiMa": "530100",
+      "quhao": "0871",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "曲靖市",
+      "quHuaDaiMa": "530300",
+      "quhao": "0874",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "玉溪市",
+      "quHuaDaiMa": "530400",
+      "quhao": "0877",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "保山市",
+      "quHuaDaiMa": "530500",
+      "quhao": "0875",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "昭通市",
+      "quHuaDaiMa": "530600",
+      "quhao": "0870",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "丽江市",
+      "quHuaDaiMa": "530700",
+      "quhao": "0888",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "普洱市",
+      "quHuaDaiMa": "530800",
+      "quhao": "0879",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "临沧市",
+      "quHuaDaiMa": "530900",
+      "quhao": "0883",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "楚雄彝族自治州",
+      "quHuaDaiMa": "532300",
+      "quhao": "0878",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "红河哈尼族彝族自治州",
+      "quHuaDaiMa": "532500",
+      "quhao": "0873",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "文山壮族苗族自治州",
+      "quHuaDaiMa": "532600",
+      "quhao": "0876",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "西双版纳傣族自治州",
+      "quHuaDaiMa": "532800",
+      "quhao": "0691",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "大理白族自治州",
+      "quHuaDaiMa": "532900",
+      "quhao": "0872",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "德宏傣族景颇族自治州",
+      "quHuaDaiMa": "533100",
+      "quhao": "0692",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "怒江傈僳族自治州",
+      "quHuaDaiMa": "533300",
+      "quhao": "0886",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "迪庆藏族自治州",
+      "quHuaDaiMa": "533400",
+      "quhao": "0887",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "拉萨市",
+      "quHuaDaiMa": "540100",
+      "quhao": "0891",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "日喀则市",
+      "quHuaDaiMa": "540200",
+      "quhao": "0892",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "昌都市",
+      "quHuaDaiMa": "540300",
+      "quhao": "0895",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "林芝市",
+      "quHuaDaiMa": "540400",
+      "quhao": "0894",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "山南市",
+      "quHuaDaiMa": "540500",
+      "quhao": "0893",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "那曲市",
+      "quHuaDaiMa": "540600",
+      "quhao": "0896",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "阿里地区",
+      "quHuaDaiMa": "542500",
+      "quhao": "0897",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "西安市",
+      "quHuaDaiMa": "610100",
+      "quhao": "029",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "铜川市",
+      "quHuaDaiMa": "610200",
+      "quhao": "0919",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "宝鸡市",
+      "quHuaDaiMa": "610300",
+      "quhao": "0917",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "咸阳市",
+      "quHuaDaiMa": "610400",
+      "quhao": "029",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "渭南市",
+      "quHuaDaiMa": "610500",
+      "quhao": "0913",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "延安市",
+      "quHuaDaiMa": "610600",
+      "quhao": "0911",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "汉中市",
+      "quHuaDaiMa": "610700",
+      "quhao": "0916",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "榆林市",
+      "quHuaDaiMa": "610800",
+      "quhao": "0912",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "安康市",
+      "quHuaDaiMa": "610900",
+      "quhao": "0915",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "商洛市",
+      "quHuaDaiMa": "611000",
+      "quhao": "0914",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "兰州市",
+      "quHuaDaiMa": "620100",
+      "quhao": "0931",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "嘉峪关市",
+      "quHuaDaiMa": "620200",
+      "quhao": "0937",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "金昌市",
+      "quHuaDaiMa": "620300",
+      "quhao": "0935",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "白银市",
+      "quHuaDaiMa": "620400",
+      "quhao": "0943",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "天水市",
+      "quHuaDaiMa": "620500",
+      "quhao": "0938",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "武威市",
+      "quHuaDaiMa": "620600",
+      "quhao": "0935",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "张掖市",
+      "quHuaDaiMa": "620700",
+      "quhao": "0936",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "平凉市",
+      "quHuaDaiMa": "620800",
+      "quhao": "0933",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "酒泉市",
+      "quHuaDaiMa": "620900",
+      "quhao": "0937",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "庆阳市",
+      "quHuaDaiMa": "621000",
+      "quhao": "0934",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "定西市",
+      "quHuaDaiMa": "621100",
+      "quhao": "0932",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "陇南市",
+      "quHuaDaiMa": "621200",
+      "quhao": "0939",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "临夏回族自治州",
+      "quHuaDaiMa": "622900",
+      "quhao": "0930",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "甘南藏族自治州",
+      "quHuaDaiMa": "623000",
+      "quhao": "0941",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "西宁市",
+      "quHuaDaiMa": "630100",
+      "quhao": "0971",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "海东市",
+      "quHuaDaiMa": "630200",
+      "quhao": "0972",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "海北藏族自治州",
+      "quHuaDaiMa": "632200",
+      "quhao": "0970",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "黄南藏族自治州",
+      "quHuaDaiMa": "632300",
+      "quhao": "0973",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "海南藏族自治州",
+      "quHuaDaiMa": "632500",
+      "quhao": "0974",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "果洛藏族自治州",
+      "quHuaDaiMa": "632600",
+      "quhao": "0975",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "玉树藏族自治州",
+      "quHuaDaiMa": "632700",
+      "quhao": "0976",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "海西蒙古族藏族自治州",
+      "quHuaDaiMa": "632800",
+      "quhao": "0977",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "银川市",
+      "quHuaDaiMa": "640100",
+      "quhao": "0951",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "石嘴山市",
+      "quHuaDaiMa": "640200",
+      "quhao": "0952",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "吴忠市",
+      "quHuaDaiMa": "640300",
+      "quhao": "0953",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "固原市",
+      "quHuaDaiMa": "640400",
+      "quhao": "0954",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "中卫市",
+      "quHuaDaiMa": "640500",
+      "quhao": "0955",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "乌鲁木齐市",
+      "quHuaDaiMa": "650100",
+      "quhao": "0991",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "克拉玛依市",
+      "quHuaDaiMa": "650200",
+      "quhao": "0990",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "吐鲁番市",
+      "quHuaDaiMa": "650400",
+      "quhao": "0995",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "哈密市",
+      "quHuaDaiMa": "650500",
+      "quhao": "0902",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "阿克苏地区",
+      "quHuaDaiMa": "652900",
+      "quhao": "0997",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "喀什地区",
+      "quHuaDaiMa": "653100",
+      "quhao": "0998",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "和田地区",
+      "quHuaDaiMa": "653200",
+      "quhao": "0903",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "昌吉回族自治州",
+      "quHuaDaiMa": "652300",
+      "quhao": "0994",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "博尔塔拉蒙古自治州",
+      "quHuaDaiMa": "652700",
+      "quhao": "0909",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "巴音郭楞蒙古自治州",
+      "quHuaDaiMa": "652800",
+      "quhao": "0996",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "克孜勒苏柯尔克孜自治州",
+      "quHuaDaiMa": "653000",
+      "quhao": "0908",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "伊犁哈萨克自治州☆",
+      "quHuaDaiMa": "654000",
+      "quhao": "0999",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "塔城地区",
+      "quHuaDaiMa": "654200",
+      "quhao": "0901",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "阿勒泰地区",
+      "quHuaDaiMa": "654300",
+      "quhao": "0906",
+      "shengji": "",
+      "xianji": ""
+    },
+    {
+      "children": [],
+      "diji": "自治区直辖县级行政单位",
+      "quHuaDaiMa": "",
+      "quhao": "",
+      "shengji": "",
+      "xianji": ""
+    }
+  ]

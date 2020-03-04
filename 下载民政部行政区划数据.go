@@ -65,14 +65,14 @@ func DownloadBianjie(qhdm string) ([]byte, error) {
 	}
 	defer resp.Body.Close()
 	if resp.StatusCode != 200 {
-		return nil, fmt.Errorf("错误")
+		return nil, fmt.Errorf("状态码:%d", resp.StatusCode)
 	}
 	return ioutil.ReadAll(resp.Body)
 }
 
 // TopojsonToGeojson 转换到geojson
 func TopojsonToGeojson(ci XZQXX, topojsonpath, geojsonpath string) error {
-	_, err := os.Stat(topojsonpath)
+	_, err := os.Stat(geojsonpath)
 	if err != nil {
 		// ogr2ogr -f "GeoJSON" 输出.geojson 输入.topojson [可选 图层名]
 		cmd := exec.Command("C:/QGIS/QGIS 3.10/bin/ogr2ogr.exe", "-f", "GeoJSON", geojsonpath, topojsonpath)
@@ -144,9 +144,11 @@ func geojsonprocess(dclsj map[string][]geojson.Feature, filename string) error {
 			feature = &fv[0]
 		} else {
 			// 将多个 多边形 合并为一个 多多边形
-			polygons := make([][][][]float64, polycount)
+			polygons := make([][][][]float64, 0, polycount)
 			for i := 0; i < polycount; i++ {
-				polygons[i] = fv[i].Geometry.Polygon
+				if fv[i].Geometry.Polygon != nil {
+					polygons = append(polygons, fv[i].Geometry.Polygon)
+				}
 			}
 			fmpoly := geojson.NewMultiPolygonFeature(polygons...)
 			filecolor, _ := fv[0].PropertyString("FillColor")
@@ -239,7 +241,7 @@ func main() {
 		if err != nil {
 			data, err = DownloadBianjie(qhxx[i].QuHuaDaiMa)
 			if err != nil {
-				log.Println("下载出错", err)
+				log.Println("下载出错", err, qhxx[i].QuHuaDaiMa, qhxx[i].Diji)
 				continue
 			}
 			err := ioutil.WriteFile(topojsonpath, data, os.ModePerm)

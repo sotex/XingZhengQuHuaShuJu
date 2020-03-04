@@ -171,14 +171,19 @@ func main() {
 		}
 	}
 
-	outdata, err := /*json.Marshal(&features) /*/ json.MarshalIndent(&features, "", "  ")
+	fp, err := os.OpenFile("xzqh3.geojson", os.O_WRONLY|os.O_TRUNC|os.O_CREATE, os.ModePerm)
 	if err != nil {
 		fmt.Println(err.Error())
 		return
 	}
-	// fmt.Println(string(outdata))
-	err = ioutil.WriteFile("xzqh3.json", outdata, os.ModePerm)
-	if err != nil {
-		fmt.Println(err.Error())
+	defer fp.Close()
+	for i := 0; i < len(features); i++ {
+		outdata, err := json.Marshal(&features[i])
+		if err != nil {
+			fmt.Println("Line", i, "Marshal Error:", err.Error())
+			return
+		}
+		fp.Write(outdata)
+		fp.Write([]byte{'\n'})
 	}
 }
